@@ -440,18 +440,18 @@ div.footer{
 
 
 /*Social Media*/
-  a.fa.fa-instagram {
+  a.fa {
   color:white;
   border-radius:50%;
   padding: 15px;
-  float:right;
+  float:none;
   font-size: 30px;
   width:60px;
   height:60px;
   text-align: center;
   text-decoration: none;
-  margin:25px 75px;
-  display: inline-block;
+  margin:10px 5px 10px 100px;
+  display;
 }
 
 .fa:hover {
@@ -459,8 +459,17 @@ div.footer{
 }
 
 .fa-instagram {
-  background: #A6A6A6;
+  background: #000;
   color: white;
+}
+
+.fa-linkedin{
+  background: #000;
+  color:white;
+}
+.fa-google{
+  background: #000;
+  color:white;
 }
 
 div.half1{
