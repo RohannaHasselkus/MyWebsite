@@ -1,5 +1,5 @@
 body{
-  background-color:#f1f1f1 ;
+  background-color:#dbddec ;
   text-align: center;
 }
 
@@ -698,4 +698,10 @@ hr.banner{
 /* When moving the mouse over the close button */
 .closebtn:hover {
   color: black;
+}
+
+div.awards{
+  background-color:inherit;
+  padding:5px;
+  margin: 5px;
 }
